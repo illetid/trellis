@@ -3,7 +3,7 @@
 # Define accompanying passwords/secrets in group_vars/development/vault.yml
 
 wordpress_sites:
-  example.com:
+  trellis.wp-dev.space:
     site_hosts:
       - canonical: evh.test
         redirects:
